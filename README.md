@@ -1,33 +1,43 @@
 # Redux Refactor
 
-This assignment refactors an app using global context into an app using React with Redux.
+## Description
 
-## 📝 Notes
+This project takes a functioning e-commerce app using state and context and refactors it to run with React Redux. The original code was left in as comments to reflect the differences between the two.
 
-What is the purpose of the action argument that gets passed to the reducer function?
+## License
 
-How can we account for multiple types of actions inside the reducer?
-
-Refer to the documentation:
-
-[React documentation on useReducer](https://reactjs.org/docs/Hooks-reference.html#usereducer)
-
----
-
-## 💡 Hints
-
-How do we make sure that the database is seeded?
-
-Which `npm` package allows us to run both the front end and the back end at the same time? How do you start it?
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-- Why do we create variable names for each action type in `actions.js`?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+<img src="https://img.shields.io/badge/license-Unlicense-red">
+  
+This project is licensed under the Unlicense.
+  
+For more information on this license, please visit [their website](https://unlicense.org/)
+  
+  
+## Table of Contents
+  
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Testing](#testing)
+- [Questions](#questions)
+  
+## Installation
+  
+The app is available to use on [Heroku](https://redux-refactor.herokuapp.com/).
+  
+## Usage
+  
+The app functions, but is not an actual e-commerce site.
+  
+## Contributing
+  
+Any developer is welcome to give feedback at the email address listed below
+  
+## Testing
+  
+Run `npm run test` to test the efficacy of the reducers.
+  
+## Questions
+  
+If you have any questions, please email me at rgregg2014@gmail.com.
+Or, you can find me on [Github](https://www.github.com/rgregg2014).
