@@ -1,3 +1,5 @@
+//In Redux, this file won't change at all
+
 export const UPDATE_PRODUCTS = "UPDATE_PRODUCTS";
 
 export const ADD_TO_CART = "ADD_TO_CART";
